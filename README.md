@@ -17,3 +17,7 @@ Paste a planned release/change log and get a concrete pre-deploy drill: top fail
 - Single prompt pass (no multi-agent debate yet)
 - No persistent history/auth
 - Assumes English release notes
+
+## Sundai
+Build on Sundai Club on March 9, 2026  
+Sundai Project: https://www.sundai.club/projects/5ca2894c-0a2f-49e6-9852-85d87adc4dea
